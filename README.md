@@ -119,21 +119,21 @@ $$
 
 evaluated separately for the Gaussian and Clayton densities.
 
-#### 6. Joint Density, Conditional CDFs & Fragility Functions
+### 6. Joint Density, Conditional CDFs & Fragility Functions
 
 The complete joint density is assembled using Sklar's theorem:
 
-$$
+```math
 f_{S_a,\mathrm{EDP}}(s_a,\mathrm{edp})
 =
 c\left(F_{S_a}(s_a),F_{\mathrm{EDP}}(\mathrm{edp})\right)
 \cdot f_{S_a}(s_a)
 \cdot f_{\mathrm{EDP}}(\mathrm{edp})
-$$
+```
 
 Conditional CDFs `F(EDP | Sa = sa)` are derived analytically (Gaussian copula) or by partial differentiation (Clayton copula), and fragility functions `P(EDP > edpₖ | Sa)` are computed for four damage-state thresholds: `edp ∈ {2, 4, 6, 8}` cm.
 
-#### 7. Equivalence: Joint Lognormal vs. Gaussian Copula + Lognormal Margins
+### 7. Equivalence: Joint Lognormal vs. Gaussian Copula + Lognormal Margins
 
 A theoretical and numerical verification confirms that the Gaussian copula with lognormal marginals is mathematically identical to a bivariate joint lognormal distribution. The maximum relative difference between the two formulations is verified at machine precision (`εmax ≈ 6 × 10⁻¹³`).
 
