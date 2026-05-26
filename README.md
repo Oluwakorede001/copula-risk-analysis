@@ -340,7 +340,7 @@ A complete 25-page technical report accompanies this project, covering:
 - Extended discussion of fragility curves and their practical implications for performance-based earthquake engineering
 - Capital adequacy analysis and regulatory risk implications
 
-📄 [View Report (PDF)](report/HW5_Report.pdf)
+📄 [View Report (PDF)](report/HMW_5.pdf)
 
 ---
 
