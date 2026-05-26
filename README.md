@@ -354,7 +354,7 @@ University of Trento, Italy
 
 ## References
 
-1. Sklar, A. (1959). *Fonctions de répartition à n dimensions et leurs marges.* Publications de l'Institut de Statistique de l'Université de Paris, 8, 229–231.
+1. Wang, Z., & Broccardo, M. (n.d.). *Structural reliability in a nutshell* [Course notes]. University of California, Berkeley; University of Trento.
 
 2. Nelsen, R. B. (2006). *An Introduction to Copulas* (2nd ed.). Springer.
 
@@ -362,13 +362,9 @@ University of Trento, Italy
 
 4. Frees, E. W., & Valdez, E. A. (1998). Understanding relationships using copulas. *North American Actuarial Journal*, 2(1), 1–25.
 
-5. Cornell, C. A., Jalayer, F., Hamburger, R. O., & Foutch, D. A. (2002). Probabilistic basis for 2000 SAC federal emergency management agency steel moment frame guidelines. *Journal of Structural Engineering*, 128(4), 526–533.
+5. Genest, C., & Favre, A. C. (2007). Everything you always wanted to know about copula modeling but were afraid to ask. *Journal of Hydrologic Engineering*, 12(4), 347–368.
 
-6. Genest, C., & Favre, A. C. (2007). Everything you always wanted to know about copula modeling but were afraid to ask. *Journal of Hydrologic Engineering*, 12(4), 347–368.
-
-7. Shang, H., & Donahue, M. (2014). *Financial Risk Management with Copulas.* Risk Books.
-
-8. Baker, J. W. (2015). Efficient analytical fragility function fitting using dynamic structural analysis. *Earthquake Spectra*, 31(1), 579–599.
+6. Baker, J. W. (2015). Efficient analytical fragility function fitting using dynamic structural analysis. *Earthquake Spectra*, 31(1), 579–599.
 
 ---
 
